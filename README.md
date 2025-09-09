@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-## 👋 About Me<br><br>- 🎓 I’m  passionate about **AI, Machine Learning, and Data Science**.  <br>- 💻 I have experience with **Python** and **C++**, and I’ve worked on **AI/ML** and **data analysis projects**.  <br>- 📚 Currently deepening my knowledge in **Machine Learning** and **Artificial Intelligence**.  <br>- 🌐 Also interested in **mobile application development** and **web development**.  <br>- 🌍 I enjoy **sharing knowledge**, solving problems, and contributing to open-source.  <br>- 🎯 Goal: Become an **AI & Machine Learning Engineer** while exploring full-stack and mobile technologies.  <br>- 📫 How to reach me: [LinkedIn]('www.linkedin.com/in/hanya-wael-b21b89347') | [Email]('hanyawael2410@gmail.com')  <br>
+## 👋 About Me<br><br>- 🎓 I’m  passionate about **AI, Machine Learning, and Data Science**.  <br>- 💻 I have experience with **Python** and **C++**, and I’ve worked on **AI/ML** and **data analysis projects**.  <br>- 📚 Currently deepening my knowledge in **Machine Learning** and **Artificial Intelligence**.  <br>- 🌐 Also interested in **mobile application development** and **web development**.  <br>- 🌍 I enjoy **sharing knowledge**, solving problems, and contributing to open-source.  <br>- 🎯 Goal: Become an **AI & Machine Learning Engineer** while exploring full-stack and mobile technologies.  <br>- 📫 How to reach me:   <a href="https://www.linkedin.com/in/hanya-wael-b21b89347/" target="_blank">
+  <a href="hanyawael2410@gmail.com" target="_blank">
 
 
 
