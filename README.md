@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 - 🎓 I’m passionate about AI, Machine Learning, and Data Science.<br>- 💻 I have experience with Python and C++, and I’ve worked on AI/ML and data analysis projects.<br>- 📚 Currently deepening my knowledge in Machine Learning and Artificial Intelligence.<br>- 🌐 Also interested in mobile application development and web development.<br>- 🌍 I enjoy sharing knowledge, solving problems, and contributing to open-source.<br>- 🎯 Goal: Become an AI & Machine Learning Engineer while exploring full-stack and mobile technologies
 
